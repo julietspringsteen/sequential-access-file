@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\SequentialFile\SequentialFile\bin\Debug\SequentialFile.exe.config
+C:\Users\student\Desktop\SequentialFile\SequentialFile\bin\Debug\SequentialFile.exe
+C:\Users\student\Desktop\SequentialFile\SequentialFile\bin\Debug\SequentialFile.pdb
+C:\Users\student\Desktop\SequentialFile\SequentialFile\bin\Debug\SequentialFile.xml
+C:\Users\student\Desktop\SequentialFile\SequentialFile\obj\Debug\SequentialFile.Form1.resources
+C:\Users\student\Desktop\SequentialFile\SequentialFile\obj\Debug\SequentialFile.Resources.resources
+C:\Users\student\Desktop\SequentialFile\SequentialFile\obj\Debug\SequentialFile.vbproj.GenerateResource.Cache
+C:\Users\student\Desktop\SequentialFile\SequentialFile\obj\Debug\SequentialFile.exe
+C:\Users\student\Desktop\SequentialFile\SequentialFile\obj\Debug\SequentialFile.xml
+C:\Users\student\Desktop\SequentialFile\SequentialFile\obj\Debug\SequentialFile.pdb
